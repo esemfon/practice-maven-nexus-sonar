@@ -16,8 +16,8 @@ public class DemoApplication {
 		Integer age = "20"
 		System.out.print(age + 5);
 
-		Integer age = "2"
-		System.out.print(age + 5);
+		Integer tim = "2"
+		System.out.print(tim + 5);
 	}
 
 }
